@@ -59,7 +59,7 @@ Response:
 }
 ```
 ###### Proof
-![Get all listings](https://github.com/DonnnChaewon/Listing-Service-Management-API/ListingProject/blob/main/image-documentation/GetAllListings.png)
+![Get all listings](https://github.com/DonnnChaewon/Listing-Service-Management-API/blob/main/image-documentation/GetAllListings.png)
 
 ##### Create listing
 ```
